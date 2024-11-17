@@ -1,6 +1,6 @@
 👨‍💻 Hi, I'm Denver
 ---
- A passionate and driven Junior Software Engineer, I am constantly learning and evolving in the ever-changing field of software development. With a strong foundation in JavaScript, React, and Node.js, I specialize in building dynamic, user-friendly web and mobile applications. My hands-on experience includes working with popular frameworks and libraries such as React Native, Express.js, and Axios, enabling me to create scalable and maintainable solutions.
+ A passionate and driven Junior Software Engineer, I am constantly learning and evolving in the ever-changing field of software development. My hands-on experience includes working with popular frameworks and libraries such as React Native, Express.js, and Axios, enabling me to create scalable and maintainable solutions.
 
 ---
 
