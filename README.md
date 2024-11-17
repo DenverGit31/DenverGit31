@@ -1,6 +1,6 @@
 👨‍💻 Hi, I'm Denver
 ---
- A passionate and driven Junior Software Engineer, I am constantly learning and evolving in the ever-changing field of software development. My hands-on experience includes working with popular frameworks and libraries such as React Native, Express.js, and Axios, enabling me to create scalable and maintainable solutions.
+ My hands-on experience includes working with popular frameworks and libraries such as React Native, Express.js, and Axios, enabling me to create scalable and maintainable solutions.
 
 ---
 
@@ -19,3 +19,13 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img  align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
 <div  style="padding-right:10px; background-color:white;">Express</div>
+
+
+#
+
+### Public repo stats
+
+![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=DenverGit31&show_icons=true&theme=vision-friendly-dark)
+
+
+#
