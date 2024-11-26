@@ -23,9 +23,3 @@
 
 #
 
-### Public repo stats
-
-![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=DenverGit31&show_icons=true&theme=vision-friendly-dark)
-
-
-#
