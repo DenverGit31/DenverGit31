@@ -24,9 +24,9 @@
 #
 
 
-<div  style="padding-right:10px; background-color:white;">WANT A CAPSTONE TITLE?</div>
-<div  style="padding-right:10px; background-color:white;">VISIT MY CAPSTONE TITLE GENERATOR >>> https://capstone-title-generator-pied.vercel.app/</div>
-
+<div  style="padding-right:10px; background-color:white;">CAPSTONE TITLE GENERATOR       --->  https://capstone-title-generator-pied.vercel.app/</div>
+-----
+<div  style="padding-right:10px; background-color:white;">ONLINE CHISMISAN (CHAT SYSTEM) --->  https://online-chismisan-f3-dv.vercel.app/</div>
 
 #
 
